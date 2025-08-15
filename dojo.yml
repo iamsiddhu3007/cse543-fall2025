@@ -9,31 +9,33 @@ visibility:
   start: "2025-08-15T00:00:00-07:00"
 
 modules:
-  type: due
-  due: "2025-12-15T23:59:59-07:00"
   - import:
       dojo: intro-to-cybersecurity
       module: access-control
     visibility:
       start: "2025-08-15T12:00:00-07:00"
+    due: "2025-12-15T23:59:59-07:00"
 
   - import:
       dojo: intro-to-cybersecurity
       module: web-security
     visibility:
       start: "2025-08-15T12:00:00-07:00"
+    due: "2025-12-15T23:59:59-07:00"
 
   - import:
       dojo: intro-to-cybersecurity
       module: intercepting-communication
     visibility:
       start: "2025-08-15T12:00:00-07:00"
+    due: "2025-12-15T23:59:59-07:00"
     
   - import:
       dojo: computing-101
       module: assembly-crash-course
     visibility:
       start: "2025-08-15T12:00:00-07:00"
+    due: "2025-12-15T23:59:59-07:00"
     
   - id: reverse-engineering
     name: "Reverse Engineering"
@@ -48,6 +50,7 @@ modules:
 
     visibility:
       start: "2025-08-15T12:00:00-07:00"
+    due: "2025-12-15T23:59:59-07:00"
     
     challenges:
       - name: "Debugging Refresher: level1"
