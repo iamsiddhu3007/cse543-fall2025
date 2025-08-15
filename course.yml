@@ -14,8 +14,11 @@ student_id: "ASU Student ID (10-digit number)"
 
 start_date: "2025-08-14T00:00:00-07:00"
 
-assessments:
+# Add the students key and list here
+students:
+  - "9876543210"
 
+assessments:
 - type: due
   id: assembly-crash-course
   date: "2025-10-19T23:59:59-07:00"
