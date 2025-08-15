@@ -12,6 +12,8 @@ letter_grades:
 
 student_id: "ASU Student ID (10-digit number)"
 
+start_date: "2025-08-14T00:00:00-07:00"
+
 assessments:
 
 - type: due
