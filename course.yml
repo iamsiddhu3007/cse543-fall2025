@@ -50,14 +50,12 @@ assessments:
   extensions:
 
 syllabus: |
-  # CSE 543 - Computer Systems Security
+  # CSE 543 - Information Assurance Security - Fall 2025
   
   ## Zoom Support Session
   **When**: Monday 11:00 AM - 12:00 PM  
   **Where**: [Zoom Link](https://asu.zoom.us/j/86754876836?pwd=eneqxAUMHsrqSMDNuch8tXwU4ebrm1.1)
   
-  ## Course Overview
-  Arizona State University - CSE 543 - Fall 2025
   
   This course covers fundamental concepts in computer systems security through hands-on practice with the pwn.college platform.
   
