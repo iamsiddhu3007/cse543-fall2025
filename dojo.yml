@@ -8,43 +8,9 @@ type : course
 visibility:
   start: "2025-08-15T00:00:00-07:00"
 
-assessments:
-  - type: due
-    id: assembly-crash-course
-    date: "2025-10-19T23:59:59-07:00"
-    weight: 0.2
-    late_penalty: 0.5
-    extensions: {}
-
-  - type: due
-    id: reverse-engineering
-    date: "2025-10-19T23:59:59-07:00"
-    weight: 0.2
-    late_penalty: 0.5
-    extensions: {}
-    
-  - type: due
-    id: intercepting-communication
-    date: "2025-10-19T23:59:59-07:00"
-    weight: 0.2
-    late_penalty: 0.5
-    extensions: {}
-
-  - type: due
-    id: access-control
-    date: "2025-10-19T23:59:59-07:00"
-    weight: 0.2
-    late_penalty: 0.5
-    extensions: {}
-
-  - type: due
-    id: web-security
-    date: "2025-10-19T23:59:59-07:00"
-    weight: 0.2
-    late_penalty: 0.5
-    extensions: {}
-
 modules:
+  type: due
+  due: "2025-12-15T23:59:59-07:00"
   - import:
       dojo: intro-to-cybersecurity
       module: access-control
