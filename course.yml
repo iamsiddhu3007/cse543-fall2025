@@ -60,11 +60,11 @@ syllabus: |
   This course covers fundamental concepts in computer systems security through hands-on practice with the pwn.college platform.
   
   ## Modules
-  1. **Assembly Crash Course** - Foundation in assembly language programming
-  2. **Reverse Engineering** - Binary analysis and reverse engineering techniques  
-  3. **Access Control** - Understanding authentication and authorization
-  4. **Web Security** - Web application security fundamentals
-  5. **Intercepting Communication** - Network security and cryptography
+  1. **Access Control**
+  2. **Web Security**
+  3. **Intercepting Communication**
+  4. **Assembly Crash Course**
+  5. **Reverse Engineering**
     
   ## Important Dates
   - Course start: August 21, 2025
