@@ -6,35 +6,35 @@ description: |
 type : course
 
 visibility:
-  start: "2025-08-14T00:00:00-07:00"
+  start: "2025-08-21T00:00:00-07:00"
 
 modules:
   - import:
       dojo: intro-to-cybersecurity
       module: access-control
     visibility:
-      start: "2025-08-14T12:00:00-07:00"
+      start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
 
   - import:
       dojo: intro-to-cybersecurity
       module: web-security
     visibility:
-      start: "2025-08-14T12:00:00-07:00"
+      start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
 
   - import:
       dojo: intro-to-cybersecurity
       module: intercepting-communication
     visibility:
-      start: "2025-08-14T12:00:00-07:00"
+      start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
     
   - import:
       dojo: computing-101
       module: assembly-crash-course
     visibility:
-      start: "2025-08-14T12:00:00-07:00"
+      start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
     
   - id: reverse-engineering
@@ -49,7 +49,7 @@ modules:
       For the `Reverse Engineering` levels, the challenge is in `/challenge`, but named differently for each level. The levelX.0 are "teaching" challenges that have output that shows what the challenge is doing. The levelX.1 challenges are similar (but not the same) but have no output: you'll need to reverse engineer the binary.
 
     visibility:
-      start: "2025-08-14T12:00:00-07:00"
+      start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
     
     challenges:

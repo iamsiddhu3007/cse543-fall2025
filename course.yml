@@ -1,0 +1,78 @@
+letter_grades:
+  "A+": 1.00
+  "A": 0.90
+  "A-": 0.85
+  "B+": 0.80
+  "B": 0.75
+  "B-": 0.70
+  "C+": 0.65
+  "C": 0.60
+  "D": 0.50
+  "E": 0.00
+
+student_id: "ASU Student ID (10-digit number)"
+
+assessments:
+
+- type: due
+  id: assembly-crash-course
+  date: "2025-10-19T23:59:59-07:00"
+  weight: 1
+  late_penalty: 0.5
+  extensions:
+
+- type: due
+  id: reverse-engineering
+  date: "2025-10-19T23:59:59-07:00"
+  weight: 1
+  late_penalty: 0.5
+  extensions:
+  
+- type: due
+  id: intercepting-communication
+  date: "2025-10-19T23:59:59-07:00"
+  weight: 1
+  late_penalty: 0.5
+  extensions:
+
+- type: due
+  id: access-control
+  date: "2025-10-19T23:59:59-07:00"
+  weight: 1
+  late_penalty: 0.5
+  extensions:
+
+- type: due
+  id: web-security
+  date: "2025-10-19T23:59:59-07:00"
+  weight: 1
+  late_penalty: 0.5
+  extensions:
+
+syllabus: |
+  # CSE 543 - Computer Systems Security
+  
+  ## Zoom Support Session
+  **When**: Monday 11:00 AM - 12:00 PM  
+  **Where**: [Zoom Link](https://asu.zoom.us/j/86754876836?pwd=eneqxAUMHsrqSMDNuch8tXwU4ebrm1.1)
+  
+  ## Course Overview
+  Arizona State University - CSE 543 - Fall 2025
+  
+  This course covers fundamental concepts in computer systems security through hands-on practice with the pwn.college platform.
+  
+  ## Modules
+  1. **Assembly Crash Course** - Foundation in assembly language programming
+  2. **Reverse Engineering** - Binary analysis and reverse engineering techniques  
+  3. **Access Control** - Understanding authentication and authorization
+  4. **Web Security** - Web application security fundamentals
+  5. **Intercepting Communication** - Network security and cryptography
+  
+  ## Grading
+  - Each module: 20% of final grade
+  - Late penalty: 50% after due date
+  - All assignments due: October 19, 2025 at 11:59 PM
+  
+  ## Important Dates
+  - Course start: August 21, 2025
+  - All assessments due: October 19, 2025
