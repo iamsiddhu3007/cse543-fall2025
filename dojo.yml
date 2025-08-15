@@ -1,29 +1,33 @@
-id: example-import
+id: cse543-fall-2025
 
-name: Example Import Dojo
+name: CSE 543 - Fall 2025
 
-type: example
+description: |
+  Arizona State University - CSE 543 - Fall 2025
+
+type: course
 
 modules:
+  - import:
+      dojo: intro-to-cybersecurity
+      module: access-control
+    visibility:
+      start: "2025-08-21T12:00:00-07:00"
 
   - import:
-      dojo: example
-      module: hello
+      dojo: intro-to-cybersecurity
+      module: web-security
+    visibility:
+      start: "2025-08-21T12:00:00-07:00"
 
-  - id: planet
-    name: Planet
-    description: A couple planets.
-
-    challenges:
-
-      - import:
-          dojo: example
-          module: world
-          challenge: earth
-
-      - import:
-          dojo: example
-          module: world
-          challenge: mars
-        name: Martian Planet
-        description: This is a martian planet... mars.
+  - import:
+      dojo: intro-to-cybersecurity
+      module: intercepting-communication
+    visibility:
+      start: "2025-08-21T12:00:00-07:00"
+    
+  - import:
+      dojo: computing-101
+      module: assembly-crash-course
+    visibility:
+      start: "2025-08-21T12:00:00-07:00"
