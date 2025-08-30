@@ -10,7 +10,7 @@ letter_grades:
   "D": 0.50
   "E": 0.00
 
-student_id: "ASU Student ID (10-digit number)"
+student_id: "ASU PWN.ID"
 
 start_date: "2025-08-14T00:00:00-07:00"
 
