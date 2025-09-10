@@ -26,7 +26,6 @@ modules:
   - import:
       dojo: intro-to-cybersecurity
       module: intercepting-communication
-    privileged: true
     visibility:
       start: "2025-08-21T12:00:00-07:00"
       stop: "2025-10-19T23:59:59-07:00"
