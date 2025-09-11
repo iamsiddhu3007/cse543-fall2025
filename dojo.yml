@@ -124,16 +124,6 @@ modules:
           dojo: program-security
           module: reverse-engineering
           challenge: level-6-1
-      - name: "Reverse Engineering: level7.0"
-        import:
-          dojo: program-security
-          module: reverse-engineering
-          challenge: level-7-0
-      - name: "Reverse Engineering: level7.1"
-        import:
-          dojo: program-security
-          module: reverse-engineering
-          challenge: level-7-1
       - name: "Reverse Engineering: level8.0"
         import:
           dojo: program-security
