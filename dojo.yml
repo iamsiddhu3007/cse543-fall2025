@@ -57,42 +57,42 @@ modules:
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-1
+          challenge: debugging-programs
       - name: "Debugging Refresher: level2"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-2
+          challenge: inspecting-registers
       - name: "Debugging Refresher: level3"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-3
+          challenge: examining-memory
       - name: "Debugging Refresher: level4"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-4
+          challenge: setting-breakpoints
       - name: "Debugging Refresher: level5"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-5
+          challenge: gdb-scripting
       - name: "Debugging Refresher: level6"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-6
+          challenge: modifying-data
       - name: "Debugging Refresher: level7"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-7
+          challenge: modifying-execution
       - name: "Debugging Refresher: level8"
         import:
           dojo: computing-101
           module: debugging-refresher
-          challenge: level-8
+          challenge: broken-functions
       - name: "Reverse Engineering: level1.0"
         import:
           dojo: program-security
