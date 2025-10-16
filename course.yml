@@ -18,35 +18,35 @@ assessments:
 
 - type: due
   id: assembly-crash-course
-  date: "2025-10-19T23:59:59-07:00"
+  date: "2025-10-31T23:59:59-07:00"
   weight: 1
   late_penalty: 0.5
   extensions:
 
 - type: due
   id: reverse-engineering
-  date: "2025-10-19T23:59:59-07:00"
+  date: "2025-10-31T23:59:59-07:00"
   weight: 1
   late_penalty: 0.5
   extensions:
   
 - type: due
   id: intercepting-communication
-  date: "2025-10-19T23:59:59-07:00"
+  date: "2025-10-31T23:59:59-07:00"
   weight: 1
   late_penalty: 0.5
   extensions:
 
 - type: due
   id: access-control
-  date: "2025-10-19T23:59:59-07:00"
+  date: "2025-10-31T23:59:59-07:00"
   weight: 1
   late_penalty: 0.5
   extensions:
 
 - type: due
   id: web-security
-  date: "2025-10-19T23:59:59-07:00"
+  date: "2025-10-31T23:59:59-07:00"
   weight: 1
   late_penalty: 0.5
   extensions:
@@ -70,4 +70,4 @@ syllabus: |
     
   ## Important Dates
   - Course start: August 21, 2025
-  - All assessments due: October 19, 2025
+  - All assessments due: October 31, 2025
